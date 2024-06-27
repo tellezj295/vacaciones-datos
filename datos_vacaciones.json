@@ -1,0 +1,10 @@
+{
+  "nombre": "Juan Angel Tellez Rivaldi",
+  "fecha_ingreso": "26/06/2014",
+  "antiguedad": "10 años",
+  "vacaciones": {
+    "causadas": 20,
+    "usufructuadas": 10,
+    "pendientes": 10
+  }
+}
